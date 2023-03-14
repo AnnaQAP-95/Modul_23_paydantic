@@ -1,0 +1,1 @@
+# Modul_23_paydantic
